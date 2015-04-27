@@ -4,7 +4,7 @@ title: Plantei.eu
 subtitle: Subtítulo vai aqui
 pageId: index
 bodyhead: plantei.eu
-permalink: /
+permalink: false
 
 pageIntro: Alteração ao texto inicial.
 shortDescription1: Três pequenos paragrafos a descreverem o projecto. Este é o primeiro. Uma representação visual irá ser incluida.
